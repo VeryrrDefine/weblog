@@ -9,7 +9,7 @@ pin: true
 math: true
 mermaid: true
 image:
-  path: /path/to/img.jpg
+  path: /assets/img/user/202501051.png
 ---
 
 # AntiDim19728
