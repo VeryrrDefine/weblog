@@ -1,0 +1,14 @@
+---
+title: 标题
+description: 描述
+author: VeryrrDefine
+date: 2025-1-1 12:00:00 +0800
+categories: [Blog, Temp]
+tags: [blog]
+pin: true
+math: true
+mermaid: true
+image:
+  path: /path/to/img.jpg
+---
+
