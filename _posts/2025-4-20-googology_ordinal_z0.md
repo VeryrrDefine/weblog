@@ -48,7 +48,16 @@ $$
 (1,3,2,4,2) = \varepsilon_0^2\omega = \psi(\Omega+\psi(\Omega)+1)\\
 (1,3,2,4,2,3) = \varepsilon_0^2\omega^\omega = \psi(\Omega+\psi(\Omega)+\omega)\\
 (1,3,2,4,2,4) = \varepsilon_0^3 = \psi(\Omega+\psi(\Omega)2)\\
-(1,3,2,4,3) = \varepsilon_0^\omega = \psi(\Omega+\psi(\Omega+1))\\
+(1,3,2,4,3) = \varepsilon_0^{\omega}\\
+(1,3,2,4,3,2,4) = \varepsilon_0^{\omega+1}\\
+(1,3,2,4,3,2,4,3) = \varepsilon_0^{\omega+2}\\
+(1,3,2,4,3,3) = \varepsilon_0^{\omega2}\\
+(1,3,2,4,3,4) = \varepsilon_0^{\omega^2}\\
+(1,3,2,4,3,4,3) = \varepsilon_0^{\omega^2+\omega}\\
+(1,3,2,4,3,4,3,4) = \varepsilon_0^{\omega^2 2}\\
+(1,3,2,4,3,4,4) = \varepsilon_0^{\omega^3}\\
+(1,3,2,4,3,4,5) = \varepsilon_0^{\omega^\omega}\\
+(1,3,2,4,3,5) = \varepsilon_0^{\varepsilon_0}
 
 
 \end{array}
