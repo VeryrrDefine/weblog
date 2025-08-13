@@ -5,7 +5,7 @@ author: VeryrrDefine
 date: 2025-1-5 16:22:00 +0800
 categories: [Blog]
 tags: [antidim19728, AD, antimatterdimensions, 乐子]
-pin: true
+
 math: true
 mermaid: true
 image:

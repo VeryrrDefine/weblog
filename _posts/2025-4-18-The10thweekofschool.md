@@ -5,7 +5,7 @@ author: VeryrrDefine
 date: 2025-4-18 23:40;)) +0800
 categories: [Blog]
 tags: [school, paocao]
-pin: true
+
 math: true
 mermaid: true
 ---

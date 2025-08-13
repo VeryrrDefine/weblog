@@ -5,7 +5,7 @@ author: VeryrrDefine
 date: 2025-4-20 19:04:00 +0800
 categories: [Googology]
 tags: [googology]
-pin: true
+
 math: true
 mermaid: true
 ---
