@@ -2,7 +2,7 @@
 title: school
 description: week 10
 author: VeryrrDefine
-date: 2025-4-18 23:40;)) +0800
+date: 2025-4-18 23:40:00 +0800
 categories: [Blog]
 tags: [school, paocao]
 
